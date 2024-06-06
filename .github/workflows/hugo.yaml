@@ -32,7 +32,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.126.0
+      HUGO_VERSION: 0.126.2
     steps:
       - name: Install Hugo CLI
         run: |
@@ -60,8 +60,8 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/mrobot-blog/"  
-            --config config/_default/hugo.yaml
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --config hugo.yaml
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
