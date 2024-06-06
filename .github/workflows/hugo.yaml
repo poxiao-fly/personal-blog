@@ -60,7 +60,8 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/mrobot-blog/"          
+            --baseURL "${{ steps.pages.outputs.base_url }}/mrobot-blog/"  
+            --config config/_default/hugo.yaml
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
