@@ -57,7 +57,6 @@ jobs:
           HUGO_ENV: production
           TZ: America/Los_Angeles
         run: |
-          cd mrobot-blog &&
           hugo \
             --gc \
             --minify \
@@ -65,7 +64,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./mrobot-blog/public
+          path: ./public
 
   # Deployment job
   deploy:
