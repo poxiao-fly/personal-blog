@@ -4,7 +4,7 @@
     <title>📕 阅读 on R@bot&#39;s Blog</title>
     <link>http://localhost:1313/posts/read/</link>
     <description>Recent content in 📕 阅读 on R@bot&#39;s Blog</description>
-    <generator>Hugo -- 0.126.2</generator>
+    <generator>Hugo -- 0.127.0</generator>
     <language>zh</language>
     <atom:link href="http://localhost:1313/posts/read/index.xml" rel="self" type="application/rss+xml" />
   </channel>

@@ -4,7 +4,7 @@
     <title>Posts on R@bot&#39;s Blog</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on R@bot&#39;s Blog</description>
-    <generator>Hugo -- 0.126.2</generator>
+    <generator>Hugo -- 0.127.0</generator>
     <language>zh</language>
     <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />

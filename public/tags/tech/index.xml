@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Essay on R@bot&#39;s Blog</title>
-    <link>http://localhost:1313/tags/essay/</link>
-    <description>Recent content in Essay on R@bot&#39;s Blog</description>
+    <title>Tech on R@bot&#39;s Blog</title>
+    <link>http://localhost:1313/tags/tech/</link>
+    <description>Recent content in Tech on R@bot&#39;s Blog</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>zh</language>
     <lastBuildDate>Sun, 23 Jun 2024 22:13:34 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/essay/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2024 Recent Plan</title>
       <link>http://localhost:1313/posts/essay/2024-recent-plan/</link>

@@ -4,8 +4,23 @@
     <title>🧩 标签 on R@bot&#39;s Blog</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in 🧩 标签 on R@bot&#39;s Blog</description>
-    <generator>Hugo -- 0.126.2</generator>
+    <generator>Hugo -- 0.127.0</generator>
     <language>zh</language>
+    <lastBuildDate>Sun, 23 Jun 2024 22:13:34 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Essay</title>
+      <link>http://localhost:1313/tags/essay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/essay/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>http://localhost:1313/tags/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tech/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

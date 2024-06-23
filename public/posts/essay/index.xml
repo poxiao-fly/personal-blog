@@ -4,10 +4,17 @@
     <title>🏖 随笔 on R@bot&#39;s Blog</title>
     <link>http://localhost:1313/posts/essay/</link>
     <description>Recent content in 🏖 随笔 on R@bot&#39;s Blog</description>
-    <generator>Hugo -- 0.126.2</generator>
+    <generator>Hugo -- 0.127.0</generator>
     <language>zh</language>
-    <lastBuildDate>Wed, 05 Jun 2024 15:06:21 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 22:13:34 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/essay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>最近的计划安排</title>
+      <link>http://localhost:1313/posts/essay/2024-recent-plan/</link>
+      <pubDate>Sun, 23 Jun 2024 22:13:34 +0800</pubDate>
+      <guid>http://localhost:1313/posts/essay/2024-recent-plan/</guid>
+      <description>最近刚刚换工作，新公司的业务主要基于Windows。距离我上一次进行Windows的开发工作，已经是三四年前的事情了。 根据目前掌握的情况来看，需要进行以下几点知识的增强和学习： C++知识的更新； Windows开发知识的更新 &amp;ndash; UWP、C#、Windows minifilter; vcpkg、cmake构建</description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>http://localhost:1313/posts/essay/my-first-post/</link>

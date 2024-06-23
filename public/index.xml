@@ -4,10 +4,17 @@
     <title>R@bot&#39;s Blog</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on R@bot&#39;s Blog</description>
-    <generator>Hugo -- 0.126.2</generator>
+    <generator>Hugo -- 0.127.0</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 06 Jun 2024 14:40:03 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 22:13:34 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024 Recent Plan</title>
+      <link>http://localhost:1313/posts/essay/2024-recent-plan/</link>
+      <pubDate>Sun, 23 Jun 2024 22:13:34 +0800</pubDate>
+      <guid>http://localhost:1313/posts/essay/2024-recent-plan/</guid>
+      <description></description>
+    </item>
     <item>
       <title>🤖 关于我</title>
       <link>http://localhost:1313/about/</link>
